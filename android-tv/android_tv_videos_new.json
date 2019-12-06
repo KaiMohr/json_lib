@@ -5,7 +5,7 @@
       "description": "Kais wave",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
       "card": "https://i.imgur.com/dRY0H.jpg",
-      "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
+      "background": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/sunset.png",
       "title": "Kais wavetitle",
       "studio": "Kais Studio name"
     }, {
