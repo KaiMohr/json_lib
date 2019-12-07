@@ -15,27 +15,13 @@
       "background": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
       "title": "Kais wave file",
       "studio": "Kais Studio name"
-    }, {
-      "description": "Kais mp3",
-      "sources": ["https://github.com/KaiMohr/kaimohr.github.io/blob/master/audio/sunny3.mp3?raw=true"],
-      "card": "https://archive.org/download/amigaformat110disks_1998-05/af110sub.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
-      "title": "Kais Sunny mp3",
-      "studio": "Kais Studio name"
-    }, {
+    },  {
       "description": "Kais mp4",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
       "card": "https://i.imgur.com/dRY0H.jpg",
       "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
       "title": "Kais video mp4",
       "studio": "Kais changed back ground"
-    },{
-      "description": "Aimee introduces Hangouts with a few thoughts on the spontaneous get-together. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts.mp4"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Hangouts/bg.jpg",
-      "title": "Google+ Hangouts",
-      "studio": "Google+"
     }]
   }, {
     "category": "Demo Slam",
