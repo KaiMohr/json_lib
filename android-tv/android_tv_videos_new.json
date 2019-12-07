@@ -5,14 +5,14 @@
       "description": "Kais wave file",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
       "card": "https://i.imgur.com/dRY0H.jpg",
-      "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
+      "background": "",
       "title": "Kais wave file",
       "studio": "Kais Studio name"
     }, {
       "description": "Kais twist",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
-      "card": "https://github.com/KaiMohr/kaimohr.github.io/blob/master/images/twist.gif",
-      "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
+      "card": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
+      "background": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
       "title": "Kais wave file",
       "studio": "Kais Studio name"
     }, {
