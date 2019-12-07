@@ -9,11 +9,11 @@
       "title": "Kais wave",
       "studio": "Kais Studio"
     },  {
-      "description": "Kais mp4",
+      "description": "Kais video mp4",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
       "card": "https://i.imgur.com/dRY0H.jpg",
       "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
-      "title": "Kais video mp4",
+      "title": "Kais videos mp4",
       "studio": "Kais changed back ground"
     }]
   }, {
