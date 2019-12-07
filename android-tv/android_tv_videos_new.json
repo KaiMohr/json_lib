@@ -9,6 +9,13 @@
       "title": "Kais wave file",
       "studio": "Kais Studio name"
     }, {
+      "description": "Kais wave file",
+      "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
+      "card": "https://i.imgur.com/dRY0H.jpg",
+      "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
+      "title": "Kais wave file",
+      "studio": "Kais Studio name"
+    }, {
       "description": "Kais mp3",
       "sources": ["https://github.com/KaiMohr/kaimohr.github.io/blob/master/audio/sunny3.mp3?raw=true"],
       "card": "https://archive.org/download/amigaformat110disks_1998-05/af110sub.jpg",
@@ -18,7 +25,7 @@
     }, {
       "description": "Kais mp4",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
-      "card": "https://ia601202.us.archive.org/2/items/FBIMG1468933610797/FB_IMG_1468933610797.jpg",
+      "card": "https://i.imgur.com/dRY0H.jpg",
       "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
       "title": "Kais video mp4",
       "studio": "Kais changed back ground"
