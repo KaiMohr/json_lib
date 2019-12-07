@@ -2,21 +2,21 @@
   "googlevideos": [{
     "category": "Google+",
     "videos": [{
-      "description": "Kais wave",
+      "description": "Kais wave 1",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
      "card": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
-      "title": "Kais wave",
+      "title": "Kais wave 1",
       "studio": "Kais Studio"
     },  {
-      "description": "Kais wave",
+      "description": "Kais wave 2",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
      "card": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
-      "title": "Kais wave",
+      "title": "Kais wave 2",
       "studio": "Kais Studio"
     }, {
-      "description": "Kais video mp4",
+      "description": "Kais video 3 mp4",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
       "card": "https://i.imgur.com/dRY0H.jpg",
       "background": "https://wallpaper.wiki/wp-content/uploads/2017/05/xPhotos-Images-Black-Wallpapers-HD.jpg.pagespeed.ic.s0qMIpmHsG.webp",
