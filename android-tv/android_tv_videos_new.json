@@ -2,13 +2,6 @@
   "googlevideos": [{
     "category": "kai",
     "videos": [{
-      "description": "Kais wave 1",
-      "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
-     "card": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
-      "title": "Kais wave 1",
-      "studio": "Kais Studio"
-    },  {
       "description": "Kais wave 2",
       "sources": ["https://github.com/KaiMohr/beatz/blob/master/9lives%20Project/9Lives.wav?raw=true"],
      "card": "https://raw.githubusercontent.com/KaiMohr/kaimohr.github.io/master/images/twist.gif",
@@ -27,14 +20,14 @@
     "category": "sport",
     "videos": [{
         "description": "First video in this cat",
-        "sources": ["https://photos.google.com/share/AF1QipMNPx2HMgMz6iIA10s8u8_L343fJNqTHEokhJTIKu_VH5KbjkmGoozqYtcsohbjRQ/photo/AF1QipOUmC4jdZYWRwG5ytWVF6Y03qLD-M5SD2cFWrIu?key=ZFYtS05neEQzbkEzZUcxVHJud2ZHRTdMNnlLb2Vn"],
+        "sources": ["ttps://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
         "card": "https://lh3.googleusercontent.com/sjtVdS6rK5K05T8hGFVqAuLr9RiH5KKXk9lPQMbf2qXBSeS4QQvNgoCKJGjw_ywZM4u34YMQ1aaN-sR8f1ivu882kiDA24gqItoJLsttwOlJ-cc1RjVEa8mquIDyYyb4PCNRIrvnkfzYWghXToGEPKJu4bfbB5lO5FQ-wg-NanLaCnC1qHPwAjb_63ukJjcVYUtCOO7o8ulPB_IHuDbqNjGDnOQNSWXZ-f5DqPtrQWu7FydFHpRf8c1XwnfzFkNj0WxjvH_y26nJK4ANbpHP8woctYVRuC30eVFOFR4VgkExGucFfY7ifW1yoTOPNjFlORCluHlrXVS0g_iQBloQnV1ePR9RdCSS5r2A6Z0k0kcxM88Z6hhrm2-XmfeA78BWCGLbZKXRexoApELO-qvYM2Z_G1k6tJXkz-_jor3Gfxw9yIUkfDcPw3SuEsbipS6qwsgTVLUefYlHAXlv3e4oRUypNGVlhIObIVEm6AgMHcBMTbM2s-1aUdbBp55aZF9NBZa_JemyQIPxvWjnWo9hETIg3cDfXKSYWPeqRqYyjE2_Su_tqRr5Xf6nvsK2pUqZK-VkauJdzMQFyGTBcY8pOKOHsD8GlrIxDxAIblR8Y6ZS2MiPI3IV7wPmndR_s5IFQH4cRdJd8yHUwqD72x-bg_5HnN7j0aAQf4TGepdHblnu6nH0Of1WscLVomHefa0QgnoUMFdOLCB-wxiYVrB2RQyLHSXA-puiU3OW0X5xipb9o0cY=w500-h281-no",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%2020ft%20Search/bg.jpg",
         "title": "First sport video",
         "studio": "Google Demo Slam"
       }, {
         "description": "second video in this cat",
-        "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic.mp4"],
+        "sources": ["ttps://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
         "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic/card.jpg",
         "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic/bg.jpg",
         "title": "second sport video",
