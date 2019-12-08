@@ -19,13 +19,6 @@
   }, {
     "category": "sport",
     "videos": [{
-        "description": "First video in this cat",
-        "sources": ["ttps://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
-        "card": "https://lh3.googleusercontent.com/sjtVdS6rK5K05T8hGFVqAuLr9RiH5KKXk9lPQMbf2qXBSeS4QQvNgoCKJGjw_ywZM4u34YMQ1aaN-sR8f1ivu882kiDA24gqItoJLsttwOlJ-cc1RjVEa8mquIDyYyb4PCNRIrvnkfzYWghXToGEPKJu4bfbB5lO5FQ-wg-NanLaCnC1qHPwAjb_63ukJjcVYUtCOO7o8ulPB_IHuDbqNjGDnOQNSWXZ-f5DqPtrQWu7FydFHpRf8c1XwnfzFkNj0WxjvH_y26nJK4ANbpHP8woctYVRuC30eVFOFR4VgkExGucFfY7ifW1yoTOPNjFlORCluHlrXVS0g_iQBloQnV1ePR9RdCSS5r2A6Z0k0kcxM88Z6hhrm2-XmfeA78BWCGLbZKXRexoApELO-qvYM2Z_G1k6tJXkz-_jor3Gfxw9yIUkfDcPw3SuEsbipS6qwsgTVLUefYlHAXlv3e4oRUypNGVlhIObIVEm6AgMHcBMTbM2s-1aUdbBp55aZF9NBZa_JemyQIPxvWjnWo9hETIg3cDfXKSYWPeqRqYyjE2_Su_tqRr5Xf6nvsK2pUqZK-VkauJdzMQFyGTBcY8pOKOHsD8GlrIxDxAIblR8Y6ZS2MiPI3IV7wPmndR_s5IFQH4cRdJd8yHUwqD72x-bg_5HnN7j0aAQf4TGepdHblnu6nH0Of1WscLVomHefa0QgnoUMFdOLCB-wxiYVrB2RQyLHSXA-puiU3OW0X5xipb9o0cY=w500-h281-no",
-        "background": "https://lh3.googleusercontent.com/NgbwNjBPRIWblmloQFmELfM9047VW860QxLAaWXT3D8mmBadRXSxSG184zadrnLerBEwaHEAMlnWCQXUG-xnutSr2x6WUh8Nlv1XaSm2GdAHje8wo5GS8fnybOXFD_A5b7Q8-NvX3YoZntriqJm_3URL4fOi45B_dWZW2h_DI5AyN3X4_6YanBMnMPOvAY5EC1fgjOeUQRpC0GBOXxi5sjrA5MeEySAMubWoTLpMVnVZMrf_Uym10w3eQOnU88K-VQdJ8Xm-vJL9gjbCxeNB3cmLfSfdgkHhsMLHAr9kv_HaiVnXiGXBNAi49lN7QQ6QD2NiSaz_2MZMnEWsc1iRKY99rQ867ZXYkPGRKhWoeCQ38QWEoS46TXkrjh5joOHoZcMYlxn7eDuGE8SpArd76uVFAC1-Z5txEhVRbJfqddGXONOFIcLvMYUU-WgIl1hOy5rBsLuYlH9iYSi6QccKvoK5-Hh8v-ZNx0nh4S3ftqhhZqssuaeu1-zuX_56TwDPX0RSyQE142GE27lUhMp5hw5tfvZl13N1EhvLzxu440Y0u_eTQLz7kUQ2emh0OabnC9Q_-0QfxE5m2PFYn1Ir_UyfFR1kit14xIVub557a6o241Vg5lckKAFmCDBoD5URGqAuycJ6XUzSrT5aWlPAJl0-Grz5-x4nJ9C4_211giS3_c27GgDUR94vFKeahXp4KLvKK52jge7omv1cLEem_wVa1iy5r_8a4g634cUBVFdM_vMN=w500-h281-no",
-        "title": "First sport video",
-        "studio": "Google Demo Slam"
-      }, {
         "description": "second video in this cat",
         "sources": ["ttps://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
         "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic/card.jpg",
