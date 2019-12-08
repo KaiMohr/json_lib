@@ -35,7 +35,7 @@
       }
     ]
   }, {
-    "category": "Gone Google",
+    "category": "was anderes",
     "videos": [{
       "description": "just some update",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Go%20Google_%20Google%20Drive.mp4"],
@@ -52,7 +52,7 @@
       "studio": "Gone Google"
     }]
   }, {
-    "category": "Zeitgeist",
+    "category": "und noch was",
     "videos": [{
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Google%20Zeitgeist%20_%20Here's%20to%202013.mp4"],
@@ -62,7 +62,7 @@
       "studio": "Google Zeitgeist"
     }] 
   }, {
-    "category": "April Fool's 2013",
+    "category": "oder mehr",
     "videos": [{
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Levity%20Algorithm.mp4"],
