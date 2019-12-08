@@ -29,7 +29,7 @@
         "description": "second video in this cat",
         "sources": ["ttps://github.com/KaiMohr/beatz/blob/master/still%20Project/Samples/Imported/James%20Brown%20Sunny.mp4?raw=true"],
         "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic/card.jpg",
-        "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Demo%20Slam/Google%20Demo%20Slam_%20Video%20Chat%20Magic/bg.jpg",
+        "background": "https://lh3.googleusercontent.com/sV3Nn2UnRwjNYXr-xG45hJmxqYaTOMJHO09YMpRTpoTZJWZ13K9h5vkfGBWSI3O75Q6aXpdp7Rm2x7tI5e5OUR_ePXCGkOnHUOV_YnHPV9Lx8dkHyw7a85faluJCclQuoNKo1OsaAqRkS9Ru7w6-f0bafJ4VoC2JXQPbLsz5SZBdJ4eRBtJa0-I739phHajoWFkOlf9gXO50mTsfRAmDdGjeBXcbhuGel95Ass07XOfw-ZsvU8PTDska5VP1duWFxsSMkGWCZkE3uSLU7qH4kYQZB4M6EpyjbTlDmHXyq3X9ZJvSB1_XZfYzSLYUWw2aXcec2yRhxsYJMbAv97nM9BOlG-LruX5hFmsQBn_gU-KCKQG_UzIoWdaN4UtcTYt0xzzy2GuOILD5DgeZjOxnUL1mWFtc15_-j8D-QWLkW_rU_uQ7vE-k1-SByZjnxq02zGwr7rTuPzo3lYleOIEro5vVBidGVwevSVsfvTz6xS0GlyzykXJRGosiZb4V2S1F4Jc76IW9fT6_oWM1SJdsJ9KukCGfyfWu-s-GBfwIyJnzfoJMMphlgoUOAqCFcFk_E_7ewHQdNsYw0SsLkl897xFG-iiFM9xOXdmjSD_z2yVeAjkvIQqLwwPdJaP_EZ_B9Nn4lVCEGzlZ7JcQGYOCkBoR3-KxmY0axQxBBD454_CuOkSJcFgqzVFRiBhs9juTr2t7hwpDmsc7Z9V1F8mc7Xb8M253aVNm0BE3xORPyXDO7IlOBw=w1124-h667-no",
         "title": "second sport video",
         "studio": "Google Demo Slam"
       }
@@ -40,7 +40,7 @@
       "description": "some more",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Work%20has%20gone%20Google.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Work%20has%20gone%20Google/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Gone%20Google/Work%20has%20gone%20Google/bg.jpg",
+      "background": "https://lh3.googleusercontent.com/sV3Nn2UnRwjNYXr-xG45hJmxqYaTOMJHO09YMpRTpoTZJWZ13K9h5vkfGBWSI3O75Q6aXpdp7Rm2x7tI5e5OUR_ePXCGkOnHUOV_YnHPV9Lx8dkHyw7a85faluJCclQuoNKo1OsaAqRkS9Ru7w6-f0bafJ4VoC2JXQPbLsz5SZBdJ4eRBtJa0-I739phHajoWFkOlf9gXO50mTsfRAmDdGjeBXcbhuGel95Ass07XOfw-ZsvU8PTDska5VP1duWFxsSMkGWCZkE3uSLU7qH4kYQZB4M6EpyjbTlDmHXyq3X9ZJvSB1_XZfYzSLYUWw2aXcec2yRhxsYJMbAv97nM9BOlG-LruX5hFmsQBn_gU-KCKQG_UzIoWdaN4UtcTYt0xzzy2GuOILD5DgeZjOxnUL1mWFtc15_-j8D-QWLkW_rU_uQ7vE-k1-SByZjnxq02zGwr7rTuPzo3lYleOIEro5vVBidGVwevSVsfvTz6xS0GlyzykXJRGosiZb4V2S1F4Jc76IW9fT6_oWM1SJdsJ9KukCGfyfWu-s-GBfwIyJnzfoJMMphlgoUOAqCFcFk_E_7ewHQdNsYw0SsLkl897xFG-iiFM9xOXdmjSD_z2yVeAjkvIQqLwwPdJaP_EZ_B9Nn4lVCEGzlZ7JcQGYOCkBoR3-KxmY0axQxBBD454_CuOkSJcFgqzVFRiBhs9juTr2t7hwpDmsc7Z9V1F8mc7Xb8M253aVNm0BE3xORPyXDO7IlOBw=w1124-h667-no",
       "title": "Work has Gone Google",
       "studio": "Gone Google"
     }]
@@ -50,7 +50,7 @@
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Google%20Zeitgeist%20_%20Here's%20to%202013.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Google%20Zeitgeist%20_%20Here's%20to%202013/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Zeitgeist/Google%20Zeitgeist%20_%20Here's%20to%202013/bg.jpg",
+      "background": "https://lh3.googleusercontent.com/sV3Nn2UnRwjNYXr-xG45hJmxqYaTOMJHO09YMpRTpoTZJWZ13K9h5vkfGBWSI3O75Q6aXpdp7Rm2x7tI5e5OUR_ePXCGkOnHUOV_YnHPV9Lx8dkHyw7a85faluJCclQuoNKo1OsaAqRkS9Ru7w6-f0bafJ4VoC2JXQPbLsz5SZBdJ4eRBtJa0-I739phHajoWFkOlf9gXO50mTsfRAmDdGjeBXcbhuGel95Ass07XOfw-ZsvU8PTDska5VP1duWFxsSMkGWCZkE3uSLU7qH4kYQZB4M6EpyjbTlDmHXyq3X9ZJvSB1_XZfYzSLYUWw2aXcec2yRhxsYJMbAv97nM9BOlG-LruX5hFmsQBn_gU-KCKQG_UzIoWdaN4UtcTYt0xzzy2GuOILD5DgeZjOxnUL1mWFtc15_-j8D-QWLkW_rU_uQ7vE-k1-SByZjnxq02zGwr7rTuPzo3lYleOIEro5vVBidGVwevSVsfvTz6xS0GlyzykXJRGosiZb4V2S1F4Jc76IW9fT6_oWM1SJdsJ9KukCGfyfWu-s-GBfwIyJnzfoJMMphlgoUOAqCFcFk_E_7ewHQdNsYw0SsLkl897xFG-iiFM9xOXdmjSD_z2yVeAjkvIQqLwwPdJaP_EZ_B9Nn4lVCEGzlZ7JcQGYOCkBoR3-KxmY0axQxBBD454_CuOkSJcFgqzVFRiBhs9juTr2t7hwpDmsc7Z9V1F8mc7Xb8M253aVNm0BE3xORPyXDO7IlOBw=w1124-h667-no",
       "title": "Here's to 2013",
       "studio": "Google Zeitgeist"
     }] 
@@ -60,7 +60,7 @@
       "description": "Fusce id nisi turpis. Praesent viverra bibendum semper. Donec tristique, orci sed semper lacinia, quam erat rhoncus massa, non congue tellus est quis tellus. Sed mollis orci venenatis quam scelerisque accumsan. Curabitur a massa sit amet mi accumsan mollis sed et magna. Vivamus sed aliquam risus. Nulla eget dolor in elit facilisis mattis. Ut aliquet luctus lacus. Phasellus nec commodo erat. Praesent tempus id lectus ac scelerisque. Maecenas pretium cursus lectus id volutpat.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Levity%20Algorithm.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Levity%20Algorithm/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/April%20Fool's%202013/Levity%20Algorithm/bg.jpg",
+      "background": "https://lh3.googleusercontent.com/sV3Nn2UnRwjNYXr-xG45hJmxqYaTOMJHO09YMpRTpoTZJWZ13K9h5vkfGBWSI3O75Q6aXpdp7Rm2x7tI5e5OUR_ePXCGkOnHUOV_YnHPV9Lx8dkHyw7a85faluJCclQuoNKo1OsaAqRkS9Ru7w6-f0bafJ4VoC2JXQPbLsz5SZBdJ4eRBtJa0-I739phHajoWFkOlf9gXO50mTsfRAmDdGjeBXcbhuGel95Ass07XOfw-ZsvU8PTDska5VP1duWFxsSMkGWCZkE3uSLU7qH4kYQZB4M6EpyjbTlDmHXyq3X9ZJvSB1_XZfYzSLYUWw2aXcec2yRhxsYJMbAv97nM9BOlG-LruX5hFmsQBn_gU-KCKQG_UzIoWdaN4UtcTYt0xzzy2GuOILD5DgeZjOxnUL1mWFtc15_-j8D-QWLkW_rU_uQ7vE-k1-SByZjnxq02zGwr7rTuPzo3lYleOIEro5vVBidGVwevSVsfvTz6xS0GlyzykXJRGosiZb4V2S1F4Jc76IW9fT6_oWM1SJdsJ9KukCGfyfWu-s-GBfwIyJnzfoJMMphlgoUOAqCFcFk_E_7ewHQdNsYw0SsLkl897xFG-iiFM9xOXdmjSD_z2yVeAjkvIQqLwwPdJaP_EZ_B9Nn4lVCEGzlZ7JcQGYOCkBoR3-KxmY0axQxBBD454_CuOkSJcFgqzVFRiBhs9juTr2t7hwpDmsc7Z9V1F8mc7Xb8M253aVNm0BE3xORPyXDO7IlOBw=w1124-h667-no",
       "title": "Levity Algorithm",
       "studio": "Google"
     }]
