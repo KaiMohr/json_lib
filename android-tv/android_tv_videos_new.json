@@ -2,14 +2,14 @@
   "googlevideos": [{
     "category": "zuletzt hinzugefuegt",
     "videos": [{
-      "description": " the things that matter. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com",
+      "description": " bla",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Instant Upload",
+      "title": "bla",
       "studio": "Google+"
     }, {
-      "description": "Search on Google+ helps you get advice from the people you know -- sometimes when you least expect it. Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
+      "description": "Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
       "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
