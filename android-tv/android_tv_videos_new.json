@@ -3,10 +3,10 @@
     "category": "zuletzt hinzugefuegt",
     "videos": [{
       "description": "none",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload.mp4"],
+      "sources": ["https://drive.google.com/uc?id=0B3dgbjG0efZSZEE3LUxwOTU0WXc&export=download"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "none",
+      "title": "some link",
       "studio": "Google+"
     }, {
       "description": "trying a direct link",
