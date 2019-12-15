@@ -16,15 +16,15 @@
       "title": "Bla 2",
       "studio": "Google+"
     }, {
-      "description": "the web at plus.google.com.",
+      "description": "another direct one.",
       "sources": [""],
       "card": "",
       "background": "",
-      "title": "Bla 3",
+      "title": "skate",
       "studio": ""
     }, {
-      "description": "Check out some ways we've been rethinking real-life sharing for the web at plus.google.com.",
-      "sources": ["https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search.mp4"],
+      "description": "Check",
+      "sources": ["https://drive.google.com/uc?authuser=0&id=0B3dgbjG0efZSMjhORnNGaVg3aXc&export=download"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
       "title": "Google+ Search",
