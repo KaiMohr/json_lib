@@ -6,7 +6,14 @@
       "sources": ["https://drive.google.com/uc?export=download&confirm=meTl&id=0B3dgbjG0efZSZEE3LUxwOTU0WXc"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "some video",
+      "title": "with confirm",
+      "studio": "Google+"
+    }, {
+      "description": "trying another direct link",
+      "sources": ["https://drive.google.com/uc?authuser=0&id=0B3dgbjG0efZSZEE3LUxwOTU0WXc&export=download"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Search/bg.jpg",
+      "title": "Bla 2",
       "studio": "Google+"
     }, {
       "description": "trying a direct link",
